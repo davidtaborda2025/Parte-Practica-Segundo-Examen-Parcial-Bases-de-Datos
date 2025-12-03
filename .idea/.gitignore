@@ -1,0 +1,21 @@
+# Ignorar todo por defecto
+*
+
+# Permitir únicamente tu carpeta del proyecto
+!/Parte Practica P2/**
+!/Parte Practica P2
+
+# Ignorar archivos y carpetas de IntelliJ IDEA
+.idea/
+*.iml
+
+# Carpeta de build/compilación
+out/
+target/
+
+# Archivos por defecto de IntelliJ
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
